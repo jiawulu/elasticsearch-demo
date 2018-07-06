@@ -1,0 +1,8 @@
+spring:
+    data:
+        elasticsearch:
+            cluster-name: elasticserch
+            cluster-nodes: 30.4.169.130:9300
+            local: false
+            repositories:
+            enabled: true
